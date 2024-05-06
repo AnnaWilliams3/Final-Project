@@ -1,4 +1,8 @@
 Data: PG1
+
 I studied The Vampire Diaries for my data. I studied the episodes in seasons 4 and 5 for all the varibles in my data. I used convenient sampling because I picked from seasons 4 and 5 rather than look at the whole show. The unit of analysis was one episode in the season. I collected a total of 45 observations. I gathered the data by watching each of the episodes listed. I would watch each episode to see if Damon was the main character versus Stefan. I would also wtahc to see how many plots there were and the emotional impact the episode had on me. Along with that I also studied the episode to see the lenght of it.
+
+
 Data: PG2
+
 For my qualitative variable "Damon" I would put a 1 if he was the main charcter in the episode compared to his brother Stefan, if Stefan was the main charcter I would put a 0 instead. For my next qualitative variable it was length and I would put a 1 if the episode was 42 minutes long and if it was over or under that it would get a 0 instead. For my last qualitative variable I did plots and how that would work if the episode only focused on the main plot it would get a 1 but if it had subplots or anything of such it would get a 0. For my first quantitative variable I did the emotional reaction I got from the episode on a scale ranging from 1-10 1 being the least amount of emotion and 10 being the greatest with 5 being an average amount of emotion I had while watching. My last quantitative variable was the number of characters that appearing in each episode, it ranged on a scale from 1-20 and I recorded how many made an apperance in each of the episodes. 
